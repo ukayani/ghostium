@@ -73,3 +73,7 @@ src/assets/_components/*
 
 # Ghostium
 build
+
+# config files
+partials/custom/config.hbs
+partials/custom/meta.hbs
