@@ -77,3 +77,4 @@ build
 # config files
 partials/custom/config.hbs
 partials/custom/meta.hbs
+partials/custom/navigation.hbs
